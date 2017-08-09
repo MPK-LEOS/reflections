@@ -1,3 +1,6 @@
+Added in lines 1,2, & 3 for an example
+
+
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 It made it easier as I did not have to read all the similar lines and could better concentrate on the lines that had changed, which were pointed out to me.
